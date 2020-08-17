@@ -1,9 +1,6 @@
-# IvyBound Plugin
+# Transform_image Plugin
 
-A WP plugin for Tutor portal on IvyBound website.
-It supports Tutor's login, registration, and profile management.
-It includes frontend and backend functions. Especially Google and Facebook Social Login/Registration implemented.  
-
+A WP plugin to build a two-dimensional pixelart based on a provided Image.
 
 ## Requirements
     - WP Profile Builder Plugin
